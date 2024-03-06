@@ -1,0 +1,5 @@
+# application.yml
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/spring_boot_user_api
